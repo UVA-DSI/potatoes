@@ -1,2 +1,1 @@
 three potato
-five potatoes
