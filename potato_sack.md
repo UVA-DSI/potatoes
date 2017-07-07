@@ -1,1 +1,2 @@
-one potato
+
+1 POTATO
